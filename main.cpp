@@ -2,6 +2,7 @@ void main() {
 	const char* Participate[10] = {
 		"GP52A186-10-—СЊъ’м",
 		"GP52A186-01-ђмЊы“§a",
-		"GP52A186-05-ZLATOPOLSKII ALEKSANDR"
+		"GP52A186-05-ZLATOPOLSKII ALEKSANDR",
+		"GP52A186-08-їа¬R§»"
 	};
 }
