@@ -6,5 +6,6 @@ void main() {
 		"GP52A186-05-ZLATOPOLSKII ALEKSANDR",
 		"GP52A186-06-トウコウ",
 		"GP52A186-08-賴昱宏"
+		"GP52A186-09-劉家銓"
 	};
 }
